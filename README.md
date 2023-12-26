@@ -1,0 +1,2 @@
+# PrincessConnectR_LvRANKSync_Calc
+プリコネのレベル/ランクシンクロでもらえる石の量の計算機です
